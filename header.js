@@ -33,7 +33,7 @@ document.write('                  </button>');
 */
 
 document.write('<a class="navbar-brand" href="index.html">');
-document.write('<img src="images/logo.png" alt="logo" width=150px>');
+document.write('<img src="images/logo.png" alt="logo" width=100px>');
 document.write('</a>');
 document.write('              </div>');/*end navbar-header*/
 
