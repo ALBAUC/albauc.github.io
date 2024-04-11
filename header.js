@@ -36,6 +36,7 @@ document.write('<a class="navbar-brand" href="index.html">');
 document.write('<img src="images/logo.png" alt="logo" width=100px>');
 document.write('</a>');
 document.write('              </div>');/*end navbar-header*/
+document.write('<img src="images/logos.png" alt="logo" height=80px align=right>');
 
 /*
 document.write('              <div class="collapse navbar-collapse">');
